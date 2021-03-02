@@ -1,0 +1,29 @@
+.header{
+    text-align: center;
+    margin: 10px 0px;
+}
+.content{
+    padding: 20px;
+}
+.content p{
+    font-weight:500;
+    font-family: sans-serif;
+}
+.body{
+    background-color: #F1F3F4;
+    padding: 18px;
+    margin: 22px 0px;
+    border-radius: 12px;
+    box-shadow: 7px 13px 19px;
+}
+
+
+
+.title:hover p{
+    background-color: #F1F3F4;
+    padding: 10px;
+    border-radius: 19px;
+}
+.item{
+    padding:'20px 0px'!important
+}

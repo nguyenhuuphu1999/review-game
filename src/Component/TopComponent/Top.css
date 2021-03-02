@@ -1,0 +1,21 @@
+.body-Item-parent{
+    width: 100%;
+    display: block;
+    position: relative;
+  
+    height: 36px;
+    padding: 1px;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.body-Item-child{
+    width: 50%;
+    background-color: black;
+    color: #fff;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}

@@ -1,0 +1,16 @@
+.a-item-tag-a{
+    font-size: 21px;
+    padding: 10px 0px;
+    color: blue;
+}
+
+.a-item-tag-a:hover{
+   
+    color: aqua;
+    transition: all 0.3s ease-out;
+}
+.body-item-tag-a{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}

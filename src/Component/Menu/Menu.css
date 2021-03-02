@@ -1,0 +1,32 @@
+.body-item{
+    border: 1px solid #AAAAAA;
+    width: 100%;
+    line-height: 40px;
+    border-radius: 5px;
+    padding: 0px 18px;
+    position: relative;
+    background-color: #EDF6FF;
+}
+.icon-item{
+    position: absolute;
+    top: 0px;
+    right: 20px;
+}
+ol li{
+    font-size: 13px;
+}
+ol li ol{
+   margin-left: 31px;
+   font-size: 12px;
+  
+}
+.content{
+    position: relative;
+    padding: 20px;
+    line-height: 21px;
+    margin-top: -8px;
+}
+
+a{
+    color:black;
+}

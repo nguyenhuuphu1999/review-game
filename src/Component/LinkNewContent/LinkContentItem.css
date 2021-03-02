@@ -1,0 +1,21 @@
+.body-item-linkcontent{
+    display: flex;
+    padding-top: 10px;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 24px;
+}
+.body-item-linkcontent:hover .body-item-linkcontent-icon {
+   color: black;
+   transition:all 0.2s ease-in;
+}
+
+.body-item-linkcontent-icon{
+    color: #cccccc;
+    padding-right: 10px;
+    margin-top: 10px;
+   
+}
+.body-item-linkcontent-title{
+    line-height: 30px;
+    font-size: 13px;
+}
